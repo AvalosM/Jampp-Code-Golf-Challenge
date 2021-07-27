@@ -4,4 +4,3 @@ for b in i:
 	else:r+='0'*-(int(l)-2)+' '+'0'*c+' ';c=1;l=b
 r+='0'*-(int(l)-2)+' '+'0'*c;print(r)
 
-print(r)
